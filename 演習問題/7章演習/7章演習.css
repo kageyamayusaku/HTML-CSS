@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container1{
+  height:400px;
+  width:100%;
+  position:relative;
+}
+.container1 img{
+  height:400px;
+  width:100%;
+  background-image: url("7章演習img/mv.jpg");
+  background-size: cover;
+  background-position: bottom center;
+}
+h1{
+  position:absolute;
+  top:20px;
+  left:20px;
+}
+
+.container2{
+  width:840px;
+  margin:0px auto;
+  padding:20px 0 50px;
+}
+.content{
+  padding:30px 0;
+  border-bottom:1px solid;
+}
+.content a{
+  color:black;
+}

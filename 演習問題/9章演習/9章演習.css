@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  height:50px;
+  width:100%;
+  background-color:#FF9A4B;
+}
+
+.container{
+  width:100%;
+  text-align: center;
+  margin:0 auto;
+  padding:50px 0;
+}
+
+.content1{
+  width:300px;
+  display:inline-block;
+  background-color:#EEE;
+  position:relative;
+  margin-right:30px;
+}
+.content1 img{
+  height:150px;
+  width:280px;
+  background-image:url("9章演習img/flow01.png");
+  background-size:cover;
+  background-position:bottom center;
+  margin:10px;
+  border-style: none;
+}
+.step1{
+  color:white;
+  background-color:#FF9A4B;
+  position:absolute;
+}
+
+.content2{
+  width:300px;
+  display:inline-block;
+  background-color:#EEE;
+  position:relative;
+  margin-right:30px;
+}
+.content2 img{
+  height:150px;
+  width:280px;
+  background-image:url("9章演習img/flow02.png");
+  background-size:cover;
+  background-position:bottom center;
+  margin:10px;
+  border-style: none;
+}
+.step2{
+  color:white;
+  background-color:#FF9A4B;
+  position:absolute;
+}
+
+.content3{
+  width:300px;
+  display:inline-block;
+  background-color:#EEE;
+  position:relative;
+}
+.content3 img{
+  height:150px;
+  width:280px;
+  background-image:url("9章演習img/flow03.png");
+  background-size:cover;
+  background-position:bottom center;
+  margin:10px;
+  border-style: none;
+}
+.step3{
+  color:white;
+  background-color:#FF9A4B;
+  position:absolute;
+}
+
+h3{
+  text-align: left;
+  padding:5px 0;
+  margin:0 10px;
+}
+.text{
+  text-align: left;
+  margin:0 10px;
+}
+
+footer{
+  height:50px;
+  width:100%;
+  background-color:#AAA;
+}

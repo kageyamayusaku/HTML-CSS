@@ -1,0 +1,18 @@
+h1{
+  color:orange;
+  font-weight:bold;
+  height:0;
+}
+h2{
+  font-weight: bold;
+  margin:0;
+}
+p{
+  margin:0;
+}
+a{
+  color:purple;
+  text-decoration:underline;
+  float:left;
+  margin:15px 0 0;
+}
